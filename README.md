@@ -2,7 +2,7 @@
 # viral-clips-crew (prototype)
 
 <div align="center">
-  <img src="https://github.com/alexfazio/viral-clips-crew/assets/34505954/c69da629-06eb-4279-a5cb-0d8d7fc1dfee" width="600px" height="auto">
+  <img src="https://github.com/hisbarry" width="600px" height="auto">
 </div>
 
 # Your [CrewAI](https://github.com/joaomdmoura/crewAI) Powered Video Editing Assistant
@@ -11,14 +11,14 @@ Are you a social media content curator? Skip the tedious editing process and get
 
 ## Content Repurposing Made Easy
 
-`viral-clips-crew` helps you repackage your valuable content in new and engaging ways to capture attention on social media and drive traffic back to the original long-form piece. Whether you're looking to refresh your own content or recycle content from other creators, this tool streamlines the process, making content repurposing effortless and efficient.
+`Hisbarry` helps you repackage your valuable content in new and engaging ways to capture attention on social media and drive traffic back to the original long-form piece. Whether you're looking to refresh your own content or recycle content from other creators, this tool streamlines the process, making content repurposing effortless and efficient.
 
 ## Requirements
 
 This project requires:
 
 - Python 3.7+
-- CrewAI
+- hisbarry
 - OpenAI API key and Google Gemini API key
 
 All required Python libraries are listed in `pyproject.toml`.
@@ -71,7 +71,7 @@ The code for `viral-clips-crew` is intended for demonstrative purposes and is no
 
 ## Credits
 
-Thank you to [Rip&Tear](https://x.com/Cyb3rCh1ck3n) for his ongoing assistance in improving this tool.
+Thank you to [Rip&Tear](https://x.com/Hisbarry) for his ongoing assistance in improving this tool.
 
 ## License
 
